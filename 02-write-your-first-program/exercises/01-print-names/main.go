@@ -24,6 +24,6 @@ package main
 // ---------------------------------------------------------
 
 func main() {
-	// ?
-	// ?
+	println("Kyra is lovely,")
+	println("and so is Adalina.")
 }
